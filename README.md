@@ -1,2 +1,4 @@
 # Networks-Project
 Abstract: This project analyses the growth of simple, undirected networks with preferential and random attachment styles. It also looks at a third type of attachment style, existing vertices, where new edges can be formed between existing nodes. The longtime degree distribution and expected largest degree for all models was derived and compared to the simulated data. From doing statistical tests on the data, it was found that networks with preferential and random attachment are modelled better by the theoretical degree distribution. There were finite-size effects exhibited in all networks and these effects were further analysed by implementing a data collapse.
+
+This project was done as part of the Imperial Physics 3rd Year Complexity and Networks module. There was a task sheet that stated what was required, hence the 'plotting_cleaner' files are named according to which task they correspond to on the sheet. See the report for final results.
